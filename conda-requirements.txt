@@ -5,3 +5,6 @@ flask
 jinja2
 pip
 simplejson
+alpha_vantage.timeseries
+alpha_vantage.techindicators
+matplotlib.pyplot
